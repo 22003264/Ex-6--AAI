@@ -50,4 +50,4 @@ print ( "Antonyms : " ,set(antonyms))
 ## Output
 ![Screenshot 2024-11-02 104500](https://github.com/user-attachments/assets/1b48b090-39cc-4310-9918-acd339b5aad9)
 ## Result:
-Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
+Thus,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
